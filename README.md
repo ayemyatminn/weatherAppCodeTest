@@ -6,7 +6,6 @@ Features
 1. User Interface:
 
 - Clean and intuitive interface.
-- Screen to enter the location (city or coordinates).
 - Display of current weather conditions.
 - 5-day weather forecast.
 
