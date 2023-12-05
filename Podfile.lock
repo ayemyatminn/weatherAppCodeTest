@@ -1,0 +1,20 @@
+PODS:
+  - CombineCocoa (0.4.0)
+  - Wormholy (1.6.5)
+
+DEPENDENCIES:
+  - CombineCocoa
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - CombineCocoa
+    - Wormholy
+
+SPEC CHECKSUMS:
+  CombineCocoa: 68a050228ce7c53c1c5ac2c57cccf92a7f5c5085
+  Wormholy: 3252bc3e55a1847ef9a0976c1377bd77bf3635fa
+
+PODFILE CHECKSUM: 8f924371a1a9edc9b91ba99b33a784befdc323ad
+
+COCOAPODS: 1.11.2
