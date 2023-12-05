@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		726988288593E32220F804D4 /* Pods_Weather.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 433493195010CC4E50952513 /* Pods_Weather.framework */; };
 		ADD206372B1F0F2F007E8A96 /* CacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD206362B1F0F2F007E8A96 /* CacheManager.swift */; };
+		ADD206392B1F1637007E8A96 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADD206382B1F1637007E8A96 /* README.md */; };
 		ADF2CFDB2B1DB73000CA8266 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CFDA2B1DB73000CA8266 /* AppDelegate.swift */; };
 		ADF2CFDD2B1DB73000CA8266 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CFDC2B1DB73000CA8266 /* SceneDelegate.swift */; };
 		ADF2CFDF2B1DB73000CA8266 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2CFDE2B1DB73000CA8266 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 		433493195010CC4E50952513 /* Pods_Weather.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Weather.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B7E96F134B143C478032928 /* Pods-Weather.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Weather.release.xcconfig"; path = "Target Support Files/Pods-Weather/Pods-Weather.release.xcconfig"; sourceTree = "<group>"; };
 		ADD206362B1F0F2F007E8A96 /* CacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheManager.swift; sourceTree = "<group>"; };
+		ADD206382B1F1637007E8A96 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ADF2CFD72B1DB73000CA8266 /* Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADF2CFDA2B1DB73000CA8266 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADF2CFDC2B1DB73000CA8266 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 		ADF2CFCE2B1DB73000CA8266 = {
 			isa = PBXGroup;
 			children = (
+				ADD206382B1F1637007E8A96 /* README.md */,
 				ADF2CFD92B1DB73000CA8266 /* Weather */,
 				ADF2CFD82B1DB73000CA8266 /* Products */,
 				087825FECD49D06FE18D736A /* Pods */,
@@ -254,6 +257,7 @@
 			files = (
 				ADF2CFE72B1DB73400CA8266 /* LaunchScreen.storyboard in Resources */,
 				ADF2CFE42B1DB73400CA8266 /* Assets.xcassets in Resources */,
+				ADD206392B1F1637007E8A96 /* README.md in Resources */,
 				ADF2CFE22B1DB73000CA8266 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
